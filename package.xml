@@ -10,5 +10,10 @@
 
   <depend>rospy</depend>
   <depend>nav_msgs</depend>
+  <depend>python3-trimesh-pip</depend>
+  <depend>python3-numpy</depend>
+  <depend>python3-collada-pip</depend>
+  <depend>python3-scipy</depend>
+  <depend>python3-networkx</depend>
   <buildtool_depend>catkin</buildtool_depend>
 </package>
